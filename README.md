@@ -2,10 +2,6 @@
 
 A quick script to scrape business info from the public register for Green Deal Participants.
 
-## Build & Run
-`docker build -t scraper .`
-`docker run -p 80:80 scraper`
-
 ## Output
 |Name|Phone|Email|Address|Link|
 |----|-----|-----|-------|----|
